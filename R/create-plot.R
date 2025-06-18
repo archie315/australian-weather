@@ -8,7 +8,7 @@ df = read_csv("data/weatherAUS.csv")
 
 # Create a dot plot of Humidity9am and Temp9am a location
 
-city = "Brisbane"# the best city 
+city = "Perth"# the worst city
 
 scatter_plot = 
 df %>%
